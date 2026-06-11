@@ -4,15 +4,15 @@ Numbers
    float
    complex
 
-string
-list 
-tuple
+string  -->   Immutable 
+list    --->  Mutable
+tuple   --->  Immutable 
 
-set
-
-dictionary
+set  --> Mutable 
+ 
+dictionary -->   Key and values pairs
   
-boolean
+boolean   -->  True   False
 
 """
 
